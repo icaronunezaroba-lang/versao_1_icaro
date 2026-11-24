@@ -1,0 +1,4 @@
+luna = int(2)
+sun = int(3)
+earth = luna * sun
+print(earth)
